@@ -1,0 +1,10 @@
+<!DOCTYPE kpartgui SYSTEM "kpartgui.dtd">
+<kpartgui name="konjue" version="1">
+<MenuBar>
+  <Menu name="window"><text>&amp;Window</text>
+    <Action name="close" />
+    <Action name="close-all" />
+    <Action name="close-all-others" />
+  </Menu>
+</MenuBar>
+</kpartgui>

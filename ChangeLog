@@ -1,0 +1,32 @@
+2005-06-18 Pieter Pareit <pieter.pareit@scarlet.be>
+    * icon: new icon added ( thanks Sebastian Sariego Benitez http://segfault.kde.cl)
+
+2005-04-23 Pieter Pareit <pieter.pareit@scarlet.be>
+  * translation: nl.po added
+  * translation: de.po added (thanks to Rene Schmidt http://log.reneschmidt.de/)
+  
+2005-04-15 Pieter Pareit <pieter.pareit@scarlet.be>
+  * release: 0.3
+  * fix: make the installation put the desktop file in Edutainment/Languages
+  * fix: don't load double entries anymore (KTabWidget inserts '&' in its labels)
+  * add: support session management by reloading tabs after logout/login
+
+2005-04-01 Pieter Pareit <pieter.pareit@scarlet.be>
+  * fix: some discription texts
+  * add: support for loading verbs during program start, as arguments
+  * fix: make reference to programmer of verbiste in about/credits
+
+Version 0.2:
+ - ported from qmake/qt to automake/kde.
+ 
+ Version 0.1.3:
+ - problem fixed with location of includes for verbiste.
+ 
+ Version 0.1.2:
+ - still a problem with a conversion from QString to std::string (Thanks Thomas Decoster).
+ 
+ Version 0.1.1:
+ - fix some compiler errors on recent qt versions.
+ 
+ Version 0.1:
+ - implement konjue.

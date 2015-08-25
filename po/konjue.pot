@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-04-23 10:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: konjue.cpp:102
+msgid "Close all"
+msgstr ""
+
+#: konjue.cpp:103
+msgid "Close all others"
+msgstr ""
+
+#: main.cpp:30
+msgid "A KDE Application to conjugate and deconjugate French verbs"
+msgstr ""
+
+#: main.cpp:36
+msgid "+[word]"
+msgstr ""
+
+#: main.cpp:36
+msgid "Word to conjugate or deconjugate"
+msgstr ""
+
+#: main.cpp:42
+msgid "Konjue"
+msgstr ""
+
+#: main.cpp:45
+msgid "Programmer of Verbiste, backend used by Konjue."
+msgstr ""
+
+#: rc.cpp:3
+#, no-c-format
+msgid "&Window"
+msgstr ""
+
+#: searchtoolbar.cpp:40
+msgid "Search:"
+msgstr ""
+
+#: searchtoolbar.cpp:54
+msgid "Enter word to conjugate here"
+msgstr ""
+
+#: searchtoolbar.cpp:57
+msgid "Find"
+msgstr ""
